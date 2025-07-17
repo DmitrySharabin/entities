@@ -1,5 +1,5 @@
 - id: mapviewer_element
-  name: MapML
+  name: "`<mapviewer>` (Inline MapML)"
   isExperimental: true # proposal/unsupported feature
   description: |
     Embed interactive maps in HTML.
