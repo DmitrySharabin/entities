@@ -1817,7 +1817,7 @@
 
 - id: element_before
   name: |
-    `element.before()`
+    `element.before()` DOM method
   mdn: en-US/docs/Web/API/Element/before
   description: |
     DOM method that moves an element before another.
