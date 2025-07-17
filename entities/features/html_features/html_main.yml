@@ -1102,7 +1102,7 @@
     - canvas
 
 - id: svg_element
-  name: "`<svg>` (inline SVG)"
+  name: "`<svg>` (Inline SVG)"
   description: Embed SVG vector graphics directly in markup
   example:
     language: html
