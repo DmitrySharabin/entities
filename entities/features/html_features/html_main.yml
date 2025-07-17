@@ -476,7 +476,7 @@
 
 - id: dialog_closedby
   webFeaturesId: dialog-closedby
-  name: "`<dialog closedby>`"
+  name: "`<dialog closedby="any">`"
   description: |
     Controls which user actions close a dialog. For example `<dialog closedby="any">` allows the dialog to be closed by clicking outside of it (light dismiss).
 
