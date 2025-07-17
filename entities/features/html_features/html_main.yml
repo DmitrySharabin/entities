@@ -1807,7 +1807,7 @@
 - id: element_move_before
   webFeaturesId: move-before
   name: |
-    `element.moveBefore()`
+    `element.moveBefore()` DOM method
   description: |
     Move an element before another while preserving state (focus, iframe loads, animation frame, etc).
   example:
