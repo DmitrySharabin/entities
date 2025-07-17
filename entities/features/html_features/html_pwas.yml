@@ -215,8 +215,7 @@
 
 - id: payment_request_api
   webFeaturesId: payment-request
-  name: |
-    `PaymentRequest` API
+  name: Payment Request API
   description: |
     Enables a consistent, secure way for websites to request payments using the browser’s native UI.
   example:
