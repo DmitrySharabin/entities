@@ -12,7 +12,7 @@
 
 - id: canvas_colorspace
   webFeaturesId: canvas-2d-color-management
-  name: Color management for 2D canvas
+  name: "`colorSpace` for 2D canvas"
   description: |
     Set the color space for the graphics being drawn on a  `<canvas>` element.
   example:
