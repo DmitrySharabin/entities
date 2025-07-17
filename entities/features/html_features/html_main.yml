@@ -1775,7 +1775,7 @@
 - id: invokers
   webFeaturesId: invoker-commands
   name: |
-    `command` and `commandfor` attributes (Invokers)
+    `command` and `commandfor` attributes (Command Invokers)
   description: |
     A declarative way for `<button>` to invoke predefined custom commands.
   example:
