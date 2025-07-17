@@ -204,7 +204,7 @@
 
 - id: web_usb_api
   webFeaturesId: webusb
-  name: WebUSB
+  name: Web USB API
   description: |
     Directly communicate with USB devices, enabling data exchange without drivers or native apps.
   example:
