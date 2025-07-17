@@ -938,7 +938,7 @@
     - features
 
 - id: model_element
-  name: "`<model>` for AR/VR/3D content"
+  name: "`<model>` (Inline AR/VR/3D content)"
   needsTranslation: false
   description: |
     Allows embedding 3D models in HTML with built-in controls.
