@@ -741,7 +741,7 @@
 
 - id: imperative_slot
   webFeaturesId: slot-assign
-  name: Imperative slot assignment
+  name: '`slotAssignment: "manual"` (Imperative slot assignment)'
   needsTranslation: true
   description: A way to assign elements to slots manually via JS, so that slot
     assignment does not have to be managed by the component consumers.
