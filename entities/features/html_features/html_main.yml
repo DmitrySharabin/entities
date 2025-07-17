@@ -1116,7 +1116,7 @@
     - features
 
 - id: math_element
-  name: "`<math>` (inline MathML)"
+  name: "`<math>` (Inline MathML)"
   description: Display math directly in HTML, using MathML.
   example:
     language: html
