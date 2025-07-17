@@ -503,7 +503,7 @@
 
 - id: element_internals
   webFeaturesId: form-associated-custom-elements
-  name: "`ElementInternals` API"
+  name: "`ElementInternals`"
   needsTranslation: false
   description: Assign hidden semantics to custom elements, facilitating
     accessibility and allowing them to participate fully in forms.
