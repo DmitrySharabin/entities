@@ -1156,7 +1156,7 @@
 
 - id: popover_api
   webFeaturesId: popover
-  name: Popover API
+  name: "`popover` attribute (Popover API)"
   needsTranslation: false
   description: HTML syntax and JS API facilitating popovers such as overlays,
     popups, menus etc.
