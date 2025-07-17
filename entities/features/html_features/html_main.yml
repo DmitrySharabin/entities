@@ -6,7 +6,7 @@
 
 - id: accordion_element
   webFeaturesId: details-name
-  name: Exclusive Accordion
+  name: "`<details name>` (Exclusive Accordion)"
   needsTranslation: true
   description:
     Group `<details>` elements so that only up to one in the group can
