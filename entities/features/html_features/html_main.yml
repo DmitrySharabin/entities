@@ -1379,7 +1379,7 @@
     - features
 
 - id: sanitizer_api
-  name: Sanitizer API
+  name: "`element.setHTML()` and `Document.parseHTML()` (Sanitizer API)"
   needsTranslation: true
   description: API to prevent XSS attacks by sanitizing untrusted strings of HTML.
   example:
