@@ -97,8 +97,8 @@
     - transition api
 
 - id: web_bluetooth_api
-  webFeaturesId: web-bluetoot
-  name: Web Bluetooth API
+  webFeaturesId: web-bluetooth
+  name: Web Bluetooth
   description: |
     Connect to and communicate with nearby Bluetooth Low Energy (BLE) devices.
   example:
