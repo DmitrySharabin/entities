@@ -881,7 +881,8 @@
     - features
 
 - id: lazy_loading
-  name: Lazy loading
+  name: |
+    `loading="lazy"`
   needsTranslation: true
   description: Load certain resources only when needed.
   example:
