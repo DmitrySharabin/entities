@@ -518,8 +518,7 @@
 
 - id: speech_recognition_api
   webFeaturesId: speech-recognition
-  name: |
-    `SpeechRecognition`
+  name: Speech Recognition
   description: |
     API that converts microphone input to text.
   example:
