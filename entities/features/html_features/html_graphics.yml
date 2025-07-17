@@ -23,7 +23,7 @@
 - id: canvas_drawelement
   isExperimental: true # proposal/unsupported feature
   name: |
-    `ctx.drawElement()`
+    `ctx.drawElement()` (HTML in canvas)
   description: |
     Draw an HTML element on `<canvas>`,  with conveniences for redrawing and hit testing.
   example:
